@@ -39,7 +39,7 @@ for (let index = 0; index < lists.length; index++) {
           e.target === dragstartElem ||
           dragstartElem === null
         )
-          return;
+          return; 
 
         let currentObject = { div: e.target, index: index };
 
@@ -59,3 +59,5 @@ for (let index = 0; index < lists.length; index++) {
     false
   );
 }
+
+module.exports = 'sterins module';

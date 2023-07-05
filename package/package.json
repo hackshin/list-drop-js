@@ -1,0 +1,22 @@
+{
+  "name": "list-drop-js",
+  "version": "1.0.0",
+  "description": "create a list which let change the list item by drop one item on top of another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackshin/list-drop-js.git"
+  },
+  "keywords": [
+    "list-drop-js"
+  ],
+  "author": "sterin saji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackshin/list-drop-js/issues"
+  },
+  "homepage": "https://github.com/hackshin/list-drop-js#readme"
+}
